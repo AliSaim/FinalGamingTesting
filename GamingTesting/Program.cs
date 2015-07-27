@@ -11,6 +11,8 @@ namespace GamingTesting
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
+
+            Console.WriteLine("This is second version, should be in other branch");
         }
     }
 }
